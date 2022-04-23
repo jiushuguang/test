@@ -1,0 +1,10 @@
+1.把今天上课的内容做成笔记 （不要照抄我的笔记，自己去课下扩充笔记） 
+2.用postman实现企业微信成员管理（获取access_token，创建成员，读取成员，更新成员，删除成员，批量删除成员，获取部门成员，获取部门成员详情） 
+调通截图，保存word，发给奶茶妹。 
+接口地址：https://developer.work.weixin.qq.com/document/path/90195 
+错误码查询：https://open.work.weixin.qq.com/devtool/query?e=40013 
+获取access_token入参： 
+corpid：ww9d3298a0bf034d61 
+corpsecret：93edYtMM9TYIruz2EeQlEXN85gHl26KFRSFIgTTzRD4 
+3.简答常见的状态码及对应的意思 
+4.简答日志等级，及相应日志的作用
